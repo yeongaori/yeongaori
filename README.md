@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on JavaScript, Java, Kotlin
 - 🌱 I’m currently learning Go, Ruby
-- 📫 How to reach me: Discord ([연가오리#6155](discord://discordapp.com/users/602447697047191562))
+- 📫 How to reach me: Discord ([연가오리#6155](https://discordapp.com/users/602447697047191562))
 - 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [SimPad Control Panel](https://github.com/SimDevices-Project/simpad-control-panel), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
 
 <!--
