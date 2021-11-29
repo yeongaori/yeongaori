@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JavaScript, Java, Kotlin
 - 🌱 I’m currently learning Go, Ruby
 - 📫 How to reach me: Discord (연가오리#6155)
-- 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
+- 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [SimPad Control Panel](https://github.com/SimDevices-Project/simpad-control-panel), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
 
 <!--
 **yeongaori/yeongaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
