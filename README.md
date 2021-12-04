@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript, Java, Kotlin
-- 🌱 I’m currently learning Go, Ruby
+- 🔭 I’m currently working on [JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript), [Java](https://www.java.com/), [Kotlin](https://github.com/JetBrains/kotlin)
+- 🌱 I’m currently learning [Go](https://github.com/golang/go), [Ruby](https://github.com/ruby/ruby)
 - 📫 How to reach me: [Discord](https://yeongaori.github.io/discord)
 - 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [SimPad Control Panel](https://github.com/SimDevices-Project/simpad-control-panel), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
 
