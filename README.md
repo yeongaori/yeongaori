@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Go](https://go.dev/), [PHP](https://www.php.net/)
+- 🔭 I’m currently working on [JavaScript](https://www.javascript.com/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Go](https://go.dev/), [PHP](https://www.php.net/)
 - 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/)
 - 📫 How to reach me: [Discord](https://yeongaori.github.io/discord) or my email (yeongaori@gmail.com)
 - 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
