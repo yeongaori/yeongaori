@@ -1,4 +1,4 @@
-### Hi there 👋
+### Military Service 2024.02.13 ~ 2025.08.12
 
 - 🔭 I’m currently working on [JavaScript](https://www.javascript.com/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Go](https://go.dev/), [PHP](https://www.php.net/)
 - 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/)
