@@ -1,21 +1,14 @@
-### Military Service 2024.02.13 ~ 2025.08.12
+# Military Service
+- 2024.02.13 ~ 2025.08.12
 
-- 🔭 I’m currently working on [JavaScript](https://www.javascript.com/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Go](https://go.dev/), [PHP](https://www.php.net/)
-- 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/)
-- 📫 How to reach me: [Discord](https://yeongaori.github.io/discord) or my email (yeongaori@gmail.com)
-- 💬 I'm helping korean translation ([Blockbench](https://github.com/JannisX11/blockbench), [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord), [CustomRP](https://github.com/maximmax42/Discord-CustomRP))
+## Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<!--
-**yeongaori/yeongaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://yeongaori.github.io/discord)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeongor@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Translations (English => Korean)
+- [Blockbench](https://github.com/JannisX11/blockbench)
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+- [CustomRP](https://github.com/maximmax42/Discord-CustomRP)
