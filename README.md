@@ -6,7 +6,7 @@
 
 ## Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://yeongaori.github.io/discord)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeongor@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@yeongaori.com)
 
 ## Translations (English => Korean)
 - [Blockbench](https://github.com/JannisX11/blockbench)
