@@ -1,3 +1,5 @@
+# My projects are moved [here](https://git.yeongaori.com/)
+
 # Military Service
 - 2024.02.13 ~ 2025.08.12
 
